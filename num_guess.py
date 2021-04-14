@@ -18,4 +18,4 @@ while guess != answer:
         guess = int(input())
         tries = tries + 1
 
-print("You guessed it in", tries, "tries")
+print("You guessed it in", tries, "tries.")
